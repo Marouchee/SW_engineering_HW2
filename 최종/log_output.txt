@@ -1,0 +1,11 @@
+6cdf856 | 2025-05-20 | BK_ | 2-1_최종_commit
+4199884 | 2025-05-20 | BK_ | pdf added
+0265927 | 2025-05-20 | BK_ | Update communication diagram and create analysis class diagram
+8cb1cda | 2025-05-20 | BK_ | Create B911306_송범규_Communication_diagram.pdf
+c8bc159 | 2025-05-20 | BK_ | communication_diagram_created
+5873ed0 | 2025-05-20 | BK_ | Create B911306_송범규_Use_Case_Diagram.pdf
+bc3c9b7 | 2025-05-19 | BK_ | requirement_list_and_use_case_description_modified
+ab6a75e | 2025-05-19 | BK_ | requirement_list_and_use_case_diagram_modified
+39d5548 | 2025-05-18 | BK_ | Create B911306_송범규_Use_Case_Description.xlsx
+9022681 | 2025-05-18 | BK_ | Use_Case_Diagram_changed
+a731d4a | 2025-05-18 | BK_ | Create B911306_송범규_requirement_list.xlsx
